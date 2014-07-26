@@ -15,11 +15,11 @@ Discussed in thread: "Graphical interface for raspistill" here:
 
 ----------------------------
 
-I wanted to add some features like a timer. 
+I added a timer to take a photo every 'n' seconds. 
 
 On the way I refactored the code a bit.
 
-Note: It's work at progress!
+Note: It's work in progress!
 
 Still to do:
 
